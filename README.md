@@ -1,6 +1,6 @@
 # Try GRASS GIS in Jupyter Notebook with Bash
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/wenzeslaus/try-grass-in-jupyter-with-bash/master?filepath=notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/waynechao128/try-grass-in-jupyter-with-bash/master?filepath=notebook.ipynb)
 
 Jupyter Notebook for trying GRASS GIS in *Binder*.
 
